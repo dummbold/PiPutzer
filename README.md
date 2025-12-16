@@ -16,6 +16,8 @@ Die Grundkonfiguration für USB wurde belassen - das kann man ja meistens brauch
 
 Ich selbst nutze diese Konfiguration für meine Projekte MQTT•Freund (Pi Zero 2 WH) und meinen Pi-Hole (Pi Zero W). Das Script sollte aber prinzipiell auf allen Raspberry Pi Computern laufen.
 
+ACHTUNG: die Funktionen werden NICHT GELÖSCHT - nur abgeschaltet. Sie können also jederzeit wieder aktiviert werden!
+
 ---
 
 ## English 🇺🇸🇬🇧
@@ -33,3 +35,5 @@ Specifically, the following functions are affected:
 The base configuration for USB has been retained, as it is usually needed.
 
 I personally use this configuration for my MQTT•Freund project (Pi Zero 2 WH) and my Pi-Hole (Pi Zero W). However, the script should generally work on all Raspberry Pi computers.
+
+ATTENTION: The functions will NOT be DELETED – only deactivated. They can be reactivated at any time!
