@@ -16,6 +16,7 @@ Die Grundkonfiguration für USB wurde belassen - das kann man ja meistens brauch
 
 Ich selbst nutze diese Konfiguration für meine Projekte MQTT•Freund (Pi Zero 2 WH) und meinen Pi-Hole (Pi Zero W). Das Script sollte aber prinzipiell auf allen Raspberry Pi Computern laufen.
 
+---
 
 ## English 🇺🇸🇬🇧
 The Pi-Optimizer is a Unix shell script for Raspberry Pi computers that are intended to run "headless" (without a monitor and keyboard). These systems do not require a number of functions that are installed and loaded by default in Pi-OS, consuming RAM and CPU power. The script disables these functions – permanently! Often, simply turning them off in the /boot/firmware/config.txt file is not enough. They must also be added to the "blacklist." The script handles this interactively.
