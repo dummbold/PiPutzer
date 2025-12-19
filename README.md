@@ -1,5 +1,7 @@
-
-
+>🇺🇸🇬🇧🇫🇷🇪🇸🇮🇹🇪🇺🇺🇦🇦🇺🇫🇮🇨🇿🇧🇷🇨🇦🇰🇿🇨🇴🇲🇶🇳🇬🇸🇨🇪🇭🇺🇾🇺🇬🏳️🏴‍☠️
+>
+>International users: Please use your Browsers translation feature. This Text is written in german language. A translation from german into other languages mainly generates better results then a translation from any language into german. Thanks for your compliance.
+>
 
 # PiPutzer ("PiCleaner")
 
@@ -19,23 +21,3 @@ Die Grundkonfiguration für USB wurde belassen - das kann man ja meistens brauch
 Ich selbst nutze diese Konfiguration für meine Pi Projekte mit Pi Zero mit LAN-HAT. Das Script sollte aber prinzipiell auf allen Raspberry Pi Computern laufen.
 
 ACHTUNG: die Funktionen werden NICHT GELÖSCHT - nur abgeschaltet. Sie können also jederzeit wieder aktiviert werden!
-
----
-
-## English 🇺🇸🇬🇧
-The PiPutzer ("PiCleaner") is a Unix shell script for Raspberry Pi computers that are intended to run "headless" (without a monitor and keyboard). These systems do not require a number of functions that are installed and loaded by default in Pi-OS, consuming RAM and CPU power. The script disables these functions – permanently! Often, simply turning them off in the /boot/firmware/config.txt file is not enough. They must also be added to the "blacklist." The script handles this interactively.
-
-Specifically, the following functions are affected:
-
-- WiFi
-- Bluetooth
-- Audio
-- Camera/Video
-- Basic monitor connection configuration
-- Modem manager
-
-The base configuration for USB has been retained, as it is usually needed.
-
-I personally use this configuration for my Pi projects with Pi Zero with LAN-HAT. However, the script should generally work on all Raspberry Pi computers.
-
-ATTENTION: The functions will NOT be DELETED – only deactivated. They can be reactivated at any time!
